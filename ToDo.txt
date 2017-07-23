@@ -1,0 +1,4 @@
+- put logs to logs/ folder
+- print name of function/module writing to log
+- handle error retrieving data from source
+- refactor - move dnhandler to separated module

@@ -1,1 +1,2 @@
-# restapiservice_mongo_db
+# restfulapiservice_mongodb
+RESTful API service for Mongodb
