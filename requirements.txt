@@ -11,6 +11,6 @@ pymongo==2.8
 pytz==2015.2
 six==1.9.0
 wsgiref==0.1.2
-PyYAML==3.11
+pyyaml>=4.2b1
 simplejson==3.8.2
 googlefinance==0.7
